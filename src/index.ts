@@ -33,6 +33,7 @@ renderer.link = (href, title, text) => {
 
 const config: WidgetConfig = {
   url: "",
+  apikey: "",
   threadId: null,
   responseIsAStream: false,
   user: {},
@@ -315,6 +316,7 @@ async function submit(e: Event) {
 
   const requestHeaders = new Headers();
   requestHeaders.append("Content-Type", "application/json");
+  requestHeaders.append("Authorization", `Bearer ${config.apiKey}`);
 
   const data = {
     ...config.user,
