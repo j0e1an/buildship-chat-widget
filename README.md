@@ -4,12 +4,6 @@ An open-source AI chat widget that can be easily embedded on your website or app
 
 With this powerful AI chat assistant, you can enhance the user experience of your website or app significantly.
 
-## [TRY LIVE DEMO](https://buildship.com/chat-widget/city-advisor)
-
-<!--![AI Chatbot Widget OpenSource - collapsed](https://github.com/rowyio/buildship-chat-widget/assets/307298/c14e4861-b2f7-4a0b-bc68-fae6ef7d9381)
--->
-https://github.com/rowyio/buildship-chat-widget/assets/307298/ba94c03d-e140-41b9-9da5-7bb27689271e
-
 ## Getting started
 
 ### Step 1. Add the widget to your website or app
